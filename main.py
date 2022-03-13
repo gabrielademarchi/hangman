@@ -10,7 +10,7 @@ chosen_word = random.choice(word_list)
 word_lenth = len(chosen_word)
 
 print(logo)
-print(f'Pssst, the solution is {chosen_word}.')
+# print(f'Pssst, the solution is {chosen_word}.')
 
 display = []
 for letter in chosen_word:
