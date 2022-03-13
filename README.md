@@ -11,3 +11,5 @@ Concepts used:
 <li>Join to transform list into string</li> 
 <li>Pseudocode</li> 
 </ul>
+
+-Day 7 of the #100daysofcode challenge
